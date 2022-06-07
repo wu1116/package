@@ -1,7 +1,6 @@
 {
     "name": "wsc/pt",
     "description": "pt",
-    "type": "project",
     "require": {
         "php": "8.0"
     },
