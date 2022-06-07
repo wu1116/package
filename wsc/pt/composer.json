@@ -1,6 +1,6 @@
 {
     "name": "wsc/pt",
-    "description": "pt",
+    "description": "pt-dev",
     "type": "project",
     "require": {
         "php": "8.0"
