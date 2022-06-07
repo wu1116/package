@@ -1,0 +1,19 @@
+{
+    "name": "wsc/pt",
+    "description": "pt",
+    "type": "project",
+    "require": {
+        "php": "8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wsc\\Pt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wgkeep"
+        }
+    ],
+    "minimum-stability": "dev"
+}
