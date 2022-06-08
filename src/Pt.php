@@ -6,7 +6,9 @@ class Pt{
 
     public function __construct()
     {
-        dd("新破天一剑！！！");
+        echo preg_replace_callback('~-([a-z])~', function ($match) {
+            return strtoupper($match[1]);
+        }, 'hello-world');
     }
 
 }
